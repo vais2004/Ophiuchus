@@ -1,0 +1,68 @@
+[
+    {
+        "jobTitle":"Software Engineer",
+        "companyDetails":{
+            "companyName":"TechCorp",
+            "location":"San Francisco, CA",
+            "salary":"820000 LPA",
+            "jobType":"Full-time(On-site)"
+        },
+        "jobDescription":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "qualifications":["Bachelor's degree in related field","3+ yeats experience"]   
+    },
+    {
+        "jobTitle":"Content Writer",
+        "companyDetails":{
+            "companyName":"Creative ink",
+            "location":"Austin, TX",
+            "salary":"680000 LPA",
+            "jobType":"Part-time(Remote)"
+        },
+        "jobDescription":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "qualifications":["Bachelor's degree in related field","3+ yeats experience"]   
+    },
+    {
+        "jobTitle":"Data Analyst",
+        "companyDetails":{
+            "companyName":"Data Insights Inc.",
+            "location":"Chicago, IL",
+            "salary":"900000 LPA",
+            "jobType":"Full-time(On-site)"
+        },
+        "jobDescription":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "qualifications":["Bachelor's degree in related field","3+ yeats experience"]   
+    },
+    {
+        "jobTitle":"UI/UX Designer",
+        "companyDetails":{
+            "companyName":"Design Studio",
+            "location":"Seattle, WA",
+            "salary":"750000 LPA",
+            "jobType":"Part-time(On-site)"
+        },
+        "jobDescription":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "qualifications":["Bachelor's degree in related field","3+ yeats experience"]   
+    },
+    {
+        "jobTitle":"DevOps Engineer",
+        "companyDetails":{
+            "companyName":"CloudTech",
+            "location":"Remote",
+            "salary":"530000 LPA",
+            "jobType":"Full-time(Remote)"
+        },
+        "jobDescription":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "qualifications":["Bachelor's degree in related field","3+ yeats experience"]   
+    },
+    {
+        "jobTitle":"Customer Support Representative",
+        "companyDetails":{
+            "companyName":"Supportly",
+            "location":"Remote",
+            "salary":"600000 LPA",
+            "jobType":"Full-time(Remote)"
+        },
+        "jobDescription":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "qualifications":["Bachelor's degree in related field","3+ yeats experience"]   
+    }
+]
